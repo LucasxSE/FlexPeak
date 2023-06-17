@@ -1,0 +1,27 @@
+*{
+    text-decoration: none;
+    text-transform: none;
+}
+button{
+    padding: 5px;
+    background-color: darkgray;
+    border: 3px, solid, black;
+    border-radius: 5px;
+}
+.divFale{
+    background-color: darkgray;
+    padding: 30px;
+    margin: 30px;
+}
+#fale{
+    color: blue;
+}
+#lucas{
+    margin-right: 10px;
+}
+.item{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
