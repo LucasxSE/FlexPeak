@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-button{
+    border-radius: 5px;
+    border-color: white;
+    box-shadow: 2px 1px 1px lightgray, -1px 0 lightgray;
+    padding: 10px;
+}
