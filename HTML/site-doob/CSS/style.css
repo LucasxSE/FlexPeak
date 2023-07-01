@@ -3,9 +3,23 @@
     padding: 0px;
 }
 
+#header{
+    margin-bottom: 5px;
+}
+
 .nav-button{
     border-radius: 5px;
     border-color: white;
     box-shadow: 2px 1px 1px lightgray, -1px 0 lightgray;
     padding: 10px;
+}
+
+.image-box{
+    position: relative;
+    top: 0;
+}
+
+.imagem1{
+    position: absolute;
+    top: 30px;
 }
